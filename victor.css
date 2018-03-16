@@ -80,6 +80,7 @@
     .animated_fadeIn{
         text-decoration: none;
         font-family: sans-serif;
+        text-align: center;
     }
 	#prendedores{
 	    position: absolute;
@@ -103,9 +104,13 @@
 		width: 30px;
 	}
     p{
-    	text-align: justify;
-        text-indent: 10px;
-        color: black;
+    	box-shadow: 15px 0 0 0 #000, -5px 0 0 0 #000;
+		background: #000;
+		
+		padding: 3px 0 !important;
+		position: relative;
+    	text-align: center;
+        color: white;
         word-wrap: break-word;
     }
     h3, #imgme{
@@ -151,6 +156,7 @@
     	z-index: 0;
 	background-color: #fefbd8;
 	    /*background-image: linear-gradient(120deg,#98FB98,#98FB98);*/
+	   
     }
     nav{
         z-index:2;
