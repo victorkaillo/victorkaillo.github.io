@@ -321,12 +321,17 @@ header.masthead p {
 #lewis {
   color: white;
   -webkit-text-stroke-width: 0.3px; /* largura da borda */
-  -webkit-text-stroke-color: #696969;     /* cor da borda */ 
+  -webkit-text-stroke-color: #696969;     /* cor da bordab */ 
   background-color: rgba(10,23,55,0.5);
 }
 
+#bible {
+  color:rgba(255,255,255,.7)!important;
+}
 
-
+#links_artistas {
+  color: #6c757d!important;
+}
 
 
 
