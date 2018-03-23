@@ -27,6 +27,14 @@ html {
   margin-left: auto;
 }
 
+/* Minhas alterações no template*/
+
+#hello {
+  -webkit-text-stroke-width: 2px; /* largura da borda */
+  -webkit-text-stroke-color: #696969; /* cor da borda */
+}
+
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
