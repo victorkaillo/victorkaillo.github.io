@@ -201,6 +201,12 @@ p {
   margin-bottom: 1rem;
   font-style: italic;
 }
+.list-hours .list-hours-item {
+  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+  padding-bottom: .25rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
@@ -247,3 +253,5 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+<!-- -->
