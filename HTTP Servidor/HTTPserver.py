@@ -34,6 +34,7 @@ while True:
     # o metodo .recv recebe os dados enviados por um cliente atraves do socket
     request = client_connection.recv(1024)
     # imprime na tela o que o cliente enviou ao servidor
+    print ("Content-Type: {} ".format())
     print (request.decode('utf-8'))
     # declaracao da resposta do servidor
     http_response = """\
@@ -42,6 +43,7 @@ HTTP/1.1 200 OK
 Hello, World!
 """
     # servidor retorna o que foi solicitado pelo cliente (neste caso a resposta e generica)
+    if request ==
     client_connection.send(http_response.encode('utf-8'))
     # encerra a conexao
     client_connection.close()
