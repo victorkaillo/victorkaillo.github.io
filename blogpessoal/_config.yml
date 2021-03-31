@@ -7,12 +7,12 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Victor Kaillo
 #tagline:             'foo's website
 description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
+url: https://victorkaillo.github.io/blogpessoa
 baseurl: "/lanyon-plus"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+urlimg: https://victorkaillo.github.io/blogpessoa/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
