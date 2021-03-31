@@ -10,9 +10,9 @@ encoding: utf-8
 title:               Victor Kaillo
 #tagline:             'foo's website
 description:         Foo's blog...
-url: https://victorkaillo.github.io/blogpessoa
+url: https://victorkaillo.github.io/
 baseurl: "/lanyon-plus"
-urlimg: https://victorkaillo.github.io/blogpessoa/images/
+urlimg: https://victorkaillo.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -108,6 +108,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+github_repo: https://github.com/victorkaillo/
 version: 1.1.1
 ## END ##
