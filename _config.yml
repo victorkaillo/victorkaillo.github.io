@@ -46,8 +46,8 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Victor Kaillo
   url:               https://twitter.com/victor_kaillo
-  avatar:         foo.png
-  #email:           
+  avatar:            foo.png
+  email:             victorkaillo@ufrn.edu.br        
 
 # Owner/author information
 owner:
@@ -57,12 +57,12 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
+  twitter:        victor_kaillo
+  facebook:       victorkaillo
+  github:         victorkaillo
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/victorkaillo
-  instagram:      
+  instagram:      victorkaillo
   flickr:
   tumblr:  
   google_plus:    https://plus.google.com/+foo
