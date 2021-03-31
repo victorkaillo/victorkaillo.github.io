@@ -44,14 +44,14 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Victor Kaillo
+  url:               https://twitter.com/victor_kaillo
   avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Victor Kaillo
   avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -61,7 +61,7 @@ owner:
   facebook:       
   github:         xyz123abc
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
+  linkedin:       https://www.linkedin.com/in/victorkaillo
   instagram:      
   flickr:
   tumblr:  
@@ -89,7 +89,7 @@ links:
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/victor_kaillo
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
@@ -99,10 +99,10 @@ links:
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-#twitter_widget_id: xyz123abc
+twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: victorkaillo
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
