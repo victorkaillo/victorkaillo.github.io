@@ -9,9 +9,9 @@ encoding: utf-8
 # Setup
 title:               Victor Kaillo
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Bem-vindo ao meu perfil pessoal...
 url: https://victorkaillo.github.io/
-baseurl: "/lanyon-plus"
+baseurl: ""
 urlimg: https://victorkaillo.github.io/images/
 markdown: kramdown
 paginate: 5
@@ -57,18 +57,18 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        victor_kaillo
-  facebook:       victorkaillo
-  github:         victorkaillo
-  stackexchange:  
+  twitter:        https://www.twitter.com/victor_kaillo
+  facebook:       https://www.facebook.com/victorkaillo
+  github:         https://www.github.com/victorkaillo
+  #stackexchange:  
   linkedin:       https://www.linkedin.com/in/victorkaillo
-  instagram:      victorkaillo
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  instagram:      https://www.instagram.com/victorkaillo
+  #flickr:
+  #tumblr:  
+  #google_plus:    https://plus.google.com/+
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  #orcid: xyz123abc
+  #gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
@@ -83,9 +83,9 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
+ # - title: <i class="iconside iconm-wordpress"></i> Old Blog
+  #  url: https://foo.wordpress.com
+   # external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
@@ -99,15 +99,15 @@ links:
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-twitter_widget_id: xyz123abc
+#twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: victorkaillo
+#disqus_shortname: victorkaillo
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+#google_analytics:   victorkaillo
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/victorkaillo/
+github_repo: https://github.com/dyndna/lanyon-plus
 version: 1.1.1
 ## END ##
