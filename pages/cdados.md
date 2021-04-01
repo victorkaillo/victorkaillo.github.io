@@ -23,7 +23,7 @@ tags:
 
 ## Projeto e implementação de uma aplicação Web baseada em análise de dados, e com sua visualização com gráfico interativo.
 
-Fonte do dataset: [Kaggle](https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic) 
+Fonte do dataset: [Kaggle: COVID-19's Impact on Airport Traffic](https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic) 
 
 * Notebook no Google colab.
 * Aplicação Web utilizando ngrok.
@@ -40,8 +40,8 @@ Fonte do dataset: [Kaggle](https://www.kaggle.com/terenceshin/covid19s-impact-on
 
 #### Vídeo com Resultados:
 
-<div>
-<a href="https://www.youtube.com/embed/wvbqXM8AxGM
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<hr class="transp">
+<div class="ytube-video-container">
+<iframe width="560" height="315" src="{{ https://www.youtube.com/embed/wvbqXM8AxGM }}" frameborder="0" allowfullscreen></iframe>
 </div>
+<hr class="transp">
