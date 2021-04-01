@@ -20,7 +20,7 @@ tags:
   - "tutoriais"
 ---
 
-## [Ciências de Dados](/tutorial/cdados/cdados.md)
+## [Ciências de Dados](/tutorial/cdados/)
 
 ## [Ciências de Dados](/pages/cdados.md)
 
