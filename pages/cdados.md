@@ -1,9 +1,25 @@
 ---
-layout: default
-permalink: index.html
+layout: page
 title: Ciência de Dados
+permalink: /cdados/
+show_meta: true
+# imagefeature path is relative to images/ directory.
+imagefeature: tutoriais.jpg
+published: true
 description: "Este projeto busca realizar uma análise do impacto causado pela pandemia do COVID-19 no tráfego dos aeroportos. Nesta análise busca-se apresentar graficamente dados sobre cidades de diferentes países, apresentando os números sobre a movimentação dos aeroportos comparando com datas anteriores à pandemia. "
+category: views
+comments: false
+mathjax: true
+noindex: false
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2021-03-31
+# tags will be used as html meta keywords.    
+tags:
+  - "cdados"
 ---
+
 
 ## Projeto e implementação de uma aplicação Web baseada em análise de dados, e com sua visualização com gráfico interativo.
 
