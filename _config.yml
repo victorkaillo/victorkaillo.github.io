@@ -77,6 +77,10 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
+#   - title: <i class="fa fa-graduation-cap"></i> Cursos
+#    url: /Eng. Comp/
+  - title: <i class="fa fa-leanpub"></i> Tutoriais
+    url: /tutoriais/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
   - title: <i class="fa fa-tags"></i> Tags
@@ -88,11 +92,11 @@ links:
    # external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/victor_kaillo
+  - title: <i class="iconside iconm-instagram"></i> Twitter
+    url: https://instagram.com/victorkaillo
     external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+#  - title: <i class="iconside iconm-feed2"></i> Feed
+#    url: /feed.xml leanpub
 
 # Google Custom Search:
 #google_search: xyz123abc
