@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ciência de Dados
-permalink: /cdados/
+permalink: index.html
 show_meta: true
 # imagefeature path is relative to images/ directory.
 imagefeature: tutoriais.jpg
