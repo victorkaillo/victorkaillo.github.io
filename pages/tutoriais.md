@@ -20,9 +20,12 @@ tags:
   - "tutoriais"
 ---
 
-## [Ciências de Dados](/tutorial/cdados/)
+## [Ciências de Dados](/tutorial/cdados/cdados.md)
+
+## [Ciências de Dados](/pages/cdados.md)
 
 ## [Processamento Digital de Imagens com OpenCV](/tutorial/pdi/)
+
 
 
 
