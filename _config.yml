@@ -12,7 +12,7 @@ title:               Victor Kaillo
 description:         Bem-vindo ao meu perfil pessoal...
 url: https://victorkaillo.github.io/
 baseurl: ""
-urlimg: https://victorkaillo.github.io/images/
+urlimg: "/images/"
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -63,12 +63,12 @@ owner:
   #stackexchange:  
   linkedin:       https://www.linkedin.com/in/victorkaillo
   instagram:      https://www.instagram.com/victorkaillo
-  #flickr:
-  #tumblr:  
-  #google_plus:    https://plus.google.com/+
+  flickr:
+  tumblr:  
+  google_plus:    
   # orcid and google scholar IDs are different than standard username.
   #orcid: xyz123abc
-  #gscholar: xyz123abc
+  gscholar: 
 
 ## sidebar links:
 # For external links add external: true
