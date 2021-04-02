@@ -20,13 +20,11 @@ tags:
   - "tutoriais"
 ---
 
-## [Ciências de Dados](/tutoriais/cdados/)
+## [Ciências de Dados](/tutorial/cdados/)
 
 ## [Ciências de Dados](/cdados.md)
 
-## [Processamento Digital de Imagens com OpenCV](/tutoriais/pdi/)
-
-
+## [Processamento Digital de Imagens com OpenCV](/tutorial/pdi/)
 
 
 *[volutpat]: Tooltip for abbreviation.
