@@ -25,14 +25,17 @@ tags:
             <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/> 
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
 <a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>
-<a href="{{ http://lattes.cnpq.br/3904167772751887 }}/about/publications/" class="social-icons" title="Publications"><i class="iconm iconm-file-pdf"></i></a>
+<a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="iconm iconm-file-pdf"></i></a>
 <a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="iconm iconm-linkedin2"></i></a>
 </span>
 </div>
 
-I study engineering (graduating in “Computer Engineering”) in UFRN (Universidade Federal do Rio Grande do Norte).
-My native language is Portuguese. I am an enthusiastic, self- motivated, reliable and responsible. However, I am irreverent, aweless, daring, audacious and happy. I like to make people happy. I love to put laughs on every face. I’m a nice fun and friendly person. My hobby is read the bible. I like to study about God and the natural beauty. I read a lot about everything involving God and his son Jesus.
-I enjoy all the sports you can practice. But I do not know if I'm good at any of them. I enjoy many musical styles.
-I love my family and I love travel with my family. I spent most of my time with my wife and I'm loving it.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare lectus a purus rutrum, a hendrerit quam condimentum. Donec vel ante maximus, vulputate libero ac, rhoncus justo. Phasellus purus nisl, auctor id tristique eu, maximus quis leo. Mauris ultricies ante quis vehicula accumsan. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi elit, feugiat non scelerisque eget, ultrices nec est. Morbi a est iaculis, commodo quam congue, posuere quam. Phasellus venenatis finibus eros, vitae malesuada nisl gravida vitae.
+
+Praesent ac sem quis diam fermentum fermentum. Nullam turpis metus, elementum sit amet venenatis sed, placerat eget erat. Ut convallis ipsum vitae volutpat tristique. Cras a tempor lorem, quis aliquet dui. Nunc vel leo erat. Donec posuere massa sed justo luctus, accumsan porttitor ligula laoreet. Suspendisse sit amet nisi ultrices, venenatis lorem vel, posuere turpis. Fusce eget dictum nisi. Proin eu diam nisi. Quisque ut quam quis sem tincidunt efficitur vitae nec ex. Pellentesque ut dolor eros. Ut faucibus semper ultricies. Vestibulum nec nisl in magna porttitor dictum.
+
+Donec egestas eros arcu, id fermentum orci faucibus ac. Pellentesque facilisis elit eu tellus ultrices pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In ut eros et mi dapibus condimentum. Sed ante metus, porttitor ut aliquet vitae, ullamcorper quis ex. Donec ac efficitur arcu, a malesuada dolor. Nulla magna arcu, semper quis augue sed, rhoncus porta urna. Duis dictum dapibus diam, ac sodales ipsum lobortis vel. Nulla ac dictum metus. Morbi sollicitudin tortor eu diam tristique, ut tincidunt tortor euismod. Integer non tincidunt metus. In tempus sem dapibus, venenatis mi placerat, condimentum orci. Nunc et tellus diam.
+
+Nam imperdiet consequat lorem. Donec sagittis tortor eu dolor efficitur ullamcorper. Pellentesque dolor arcu, vestibulum quis laoreet at, tincidunt nec mauris. Praesent id laoreet arcu. Quisque blandit nunc at elit auctor, eget tempor nunc sodales. Cras venenatis lacinia tempus. Proin erat nisl, pharetra a massa volutpat, rhoncus pellentesque nisi. Mauris in elit dictum, egestas tellus et, laoreet velit. Nam auctor tempus augue sit amet fermentum. Nulla accumsan arcu quis efficitur aliquam. Nulla dapibus in neque eget facilisis. Nullam nisi augue, maximus at lectus sit amet, ornare malesuada ante. Morbi volutpat justo a urna pharetra elementum. Proin tempor ac felis ac consequat. Proin feugiat, nulla ac sagittis consequat, ante diam auctor tortor, in suscipit leo ante id dolor. Vivamus posuere pellentesque magna, sagittis blandit neque convallis sed.
 
 *[volutpat]: Tooltip for abbreviation.

@@ -1,7 +1,7 @@
 prose:
   rooturl: ''
-  siteurl: 'http://victorkaillo.github.io/'
-  relativeLinks: 'http://victorkaillo.github.io/links.jsonp'
+  siteurl: 'http://example.com/'
+  relativeLinks: 'http://example.com/links.jsonp'
   media: 'images/media'
   ignore:
     - /_data
