@@ -7,9 +7,9 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               Victor Kaillo
+title:               My Website
 #tagline:             'foo's website
-description:         Victor Kaillo
+description:         Foo's blog...
 url:                 http://localhost:4000
 baseurl:  ""
 urlimg: http://localhost:4000/images/

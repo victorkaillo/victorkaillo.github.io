@@ -1,15 +1,15 @@
 - name: Twitter
-  url: https://twitter.com/victor_kaillo
+  url: https://twitter.com/abcd
   class: fa fa-twitter-square
-  title: "Follow me @victor_kaillo"
+  title: "Follow me @foo"
 
-- name: Instagram
-  url: https://instagram.com/victorkaillo
-  class: fa fa-instagram-square
-  title: "Follow me @victorkaillo"
+- name: Google Plus
+  url: https://plus.google.com/+foo
+  class: fa fa-google-plus-square
+  title: "Follow me +foo"
 
 - name: GitHub
-  url: https://github.com/victorkaillo
+  url: https://github.com/xyz123abc
   class: fa fa-github-square
   title: Code repository
 
@@ -17,3 +17,8 @@
   url: "/contact/"
   class: fa fa-envelope-square
   title: "Reach Us"
+
+- name: RSS
+  url: "/feed.xml"
+  class: fa fa-rss-square
+  title: "Subscribe to RSS"
