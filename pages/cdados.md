@@ -41,15 +41,3 @@ Fonte do dataset: [Kaggle: COVID-19's Impact on Airport Traffic](https://www.kag
 #### Vídeo com Resultados:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvbqXM8AxGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr class="transp">
-<div class="ytube-video-container">
-<iframe width="560" height="315" src="{{ https://www.youtube.com/wvbqXM8AxGM }}" frameborder="0" allowfullscreen></iframe>
-</div>
-<hr class="transp">
-
-<hr class="transp">
-<div class="ytube-video-container">
-<iframe width="560" height="315" src="{{ https://youtu.be/wvbqXM8AxGM }}" frameborder="0" allowfullscreen></iframe>
-</div>
-<hr class="transp">
