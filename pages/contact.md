@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: "Contact example.com"
+description: "Contact victorkaillo@ufrn.edu.br"
 comments: false
 mathjax: false
 noindex: false
@@ -13,18 +13,18 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
+  - "vitor kaillo"
   - "driving directions"
   - address
 ---
 
-| <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
+| <i class="fa fa-twitter"></i> | [@victorkaillo](https://twitter.com/victor_kaillo)  | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | foo<br>XYZ<br>1234 ABC ST<br>Washington, DC 11111   | 
+| <i class="fa fa-envelope"></i> | Victor<br>Kaillo<br>1808<br>Natal, RN    | 
 | - | :- |
 | <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
 | - | :- |
-| <i class="fa fa-paper-plane">  | foo@xyz | 
+| <i class="fa fa-paper-plane">  | victorkaillo@ufrn.edu.br | 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
@@ -38,7 +38,7 @@ tags:
   data-dnt="true"
   width="600"
   height="250"
-  href="https://twitter.com/{{ site.owner.twitter }}"
+  href="https://twitter.com/victor_kaillo"
   data-widget-id="{{ site.twitter_widget_id }}"
   data-tweet-limit="2"
   data-chrome="noheader nofooter noborders noscrollbar transparent">
