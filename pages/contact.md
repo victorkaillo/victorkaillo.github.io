@@ -13,7 +13,7 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "vitor kaillo"
+  - "victor kaillo"
   - "driving directions"
   - address
 ---
