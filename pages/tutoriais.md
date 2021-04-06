@@ -20,7 +20,7 @@ tags:
   - "tutoriais"
 ---
 
-## [Ciências de Dados](/tutorial/cdados/)
+## [Uma introdução a programação paralela](/pcd.md)
 
 ## [Ciências de Dados](/cdados.md)
 
