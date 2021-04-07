@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Victor Kaillo
+title: Victor Kaillo | Engenheiro em Formação
 description: "Página de Victor Kaillo"
 ---
 
