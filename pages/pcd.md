@@ -39,7 +39,7 @@ Conceitos obeservados no livro-texto: [An Introduction to Parallel Programming b
 Todo ambiente de compilação MPI tem um compilador específico para MPI. 
 
 ```terminal 
-mpicc -g -Wall -std=c99 -o mpi_hello mpi_hello.c
+mpicc -g -Wall -o mpi_hello mpi_hello.c
 ``` 
 * mpicc é um envelope que pode chamar por exemplo gcc, icc, PGI Compiler.
 
@@ -55,11 +55,11 @@ Este envelope pode passar outras flags embutidas. O restante das flags comporta�
 mpiexec -n <número de processos> <exeutável> 
 ``` 
 Exemplos a partir do código mpi_hello.c:
-* mpiexec -n 1 ./mpi_hello
+* <code> mpiexec -n 1 ./mpi_hello </code> ->
 Não executa o if, executa o else e execulta apenas a linha "printf"
 Não haverá nem envio, nem recebimento de mensagens
 Variável "q" começa em 1 e não será menor que <code> comm_sz </code> 
-* mpiexec -n 4 ./mpi_hello
+* <code>mpiexec -n 4 ./mpi_hello</code> ->
 Executa o programa com envios e recebimentos de mensagens
 
 
@@ -160,7 +160,7 @@ int main(int argc, char* argv[]) {
 ```
 ### Comunicadores:
 * Uma coleção de processos que enviam mensagens uns para os outros.
-* MPI_COMM_WORLD -> Comunicador global
+* <code> MPI_COMM_WORLD </code> -> Comunicador global
 * Comunicador tem uma estrutura de dados que sabe quais processos estão em execução e qual o endereço de cada processo afim de ficar transparente para os processos a comunicação.
 * MPI_Init define o comunicador e é executado assim que o programa inicial.
 * MPI_Comm_size(MPI_COMM_WORLD, &comm_sz); define o numero de processos que estão participando.
