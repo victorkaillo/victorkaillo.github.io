@@ -212,6 +212,8 @@ int main(int argc, char* argv[]) {
 
 Dadas estas informações vamos avançar para um programa MPI mais útil que apenas um Hello.
 
+O seguinte programa calcula a integral definida usando trapezios:
+
 
 ```cpp
 /* File:    trap.c
@@ -289,3 +291,18 @@ double f(double x) {
 }  /* f */
 
 ```
+
+Você pode ter notado que esse programa poderia ser mais eficiente se as operações fossem distribuidas em forma de árvore. Há uma função MPI que que já fiz isso automaticamente: MPI_Reduce.
+
+### MPI_Reduce
+
+* MPI_Reduce(input_data_p, output_data_p, count, datatype, operator, dest_process, conm).
+* input_data_p ->
+* output_data_p -> variavel que recebe o resultado do MPI_Reduce. Só efetivamente usada no processo de destino.
+* count ->
+* datatype -> tipo do dado.
+* operator -> tipo de operação.
+* dest_process -> processo de destino.
+* conm -> 
+* MPI_Reduce é um processo de comunicação coletiva. Logo, todos os processos devem participar, caso contrário haverá um erro. 
+* os processos serão pareados pela ordem de chamada.
