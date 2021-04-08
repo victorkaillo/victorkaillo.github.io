@@ -306,3 +306,4 @@ Você pode ter notado que esse programa poderia ser mais eficiente se as operaç
 * conm -> 
 * MPI_Reduce é um processo de comunicação coletiva. Logo, todos os processos devem participar, caso contrário haverá um erro. 
 * os processos serão pareados pela ordem de chamada.
+
