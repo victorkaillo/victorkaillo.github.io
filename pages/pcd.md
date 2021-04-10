@@ -307,3 +307,16 @@ Você pode ter notado que esse programa poderia ser mais eficiente se as operaç
 * MPI_Reduce é um processo de comunicação coletiva. Logo, todos os processos devem participar, caso contrário haverá um erro. 
 * os processos serão pareados pela ordem de chamada.
 
+### MPI_Gather
+
+### MPI_Allgather
+
+### MPI_Allgatherv
+
+### MPI_Gatherv
+
+* MPI_Gatherv é uma variante de MPI_Gather; ele coleta dados de todos os processos em um determinado comunicador e os concatena no buffer fornecido no processo especificado.
+* Ao contrário de MPI_Gather, no entanto, MPI_Gatherv permite que as mensagens recebidas tenham comprimentos diferentes e sejam armazenadas em locais arbitrários no buffer do processo raiz.
+* MPI_Gatherv é uma operação coletiva; todos os processos no comunicador devem invocar essa rotina.
+* MPI_Igatherv é a contraparte sem bloqueio de MPI_Gatherv.
+* Outras variantes de MPI_Gatherv são: MPI_Gather, MPI_Allgather e MPI_Allgatherv. 
