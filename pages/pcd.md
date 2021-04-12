@@ -320,3 +320,10 @@ Você pode ter notado que esse programa poderia ser mais eficiente se as operaç
 * MPI_Gatherv é uma operação coletiva; todos os processos no comunicador devem invocar essa rotina.
 * MPI_Igatherv é a contraparte sem bloqueio de MPI_Gatherv.
 * Outras variantes de MPI_Gatherv são: MPI_Gather, MPI_Allgather e MPI_Allgatherv. 
+
+### Avaliação da Performance em MPI
+
+* A avaliação da performance em MPI está fortemente ligada a escalabilidade.
+* Um programa é escalonável se o tamanho do problema puder ser aumentado a uma taxa de forma que a eficiência não diminua à medida que o número de processos aumenta.
+* Programas fortemente escaláveis (strongly scalable) são aqueles que mantêm sua escalabilidade independentemente do tamanho do problema.
+* Programas fracamente escaláveis  (weakly scalable) são aqueles que mantêm sua escalabilidade se ao aumentarmos o tamanho do problema, aumentarmos proporcionalmente o número de processos.
