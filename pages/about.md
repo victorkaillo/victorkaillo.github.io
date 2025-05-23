@@ -30,9 +30,12 @@ tags:
 </span>
 </div>
 
-I study engineering (graduating in “Computer Engineering”) in UFRN (Universidade Federal do Rio Grande do Norte).
-My native language is Portuguese. I am an enthusiastic, self- motivated, reliable and responsible. However, I am irreverent, aweless, daring, audacious and happy. I like to make people happy. I love to put laughs on every face. I’m a nice fun and friendly person. My hobby is read the bible. I like to study about God and the natural beauty. I read a lot about everything involving God and his son Jesus.
-I enjoy all the sports you can practice. But I do not know if I'm good at any of them. I enjoy many musical styles.
-I love my family and I love travel with my family. I spent most of my time with my wife and I'm loving it.
+I hold a degree in Computer Engineering from UFRN (Federal University of Rio Grande do Norte). I'm a native Portuguese speaker and fluent in English. I'm passionate about technology, problem-solving, and building solutions that make a real difference in people’s lives.
+
+Beyond the technical world, I'm an enthusiastic and naturally optimistic person. I love making people laugh and bringing joy wherever I go. Humor and lightheartedness are part of how I connect with others, both personally and professionally.
+
+I'm deeply spiritual—reading the Bible and studying about God and His creation are essential parts of my routine. I enjoy reflecting on life through faith and learning from biblical teachings.
+
+In my free time, I like practicing sports (even if I'm not sure I'm good at them!), exploring different music styles, and traveling. I'm family-oriented and cherish every moment I get to spend with my wife—she’s my greatest partner and source of joy.
 
 *[volutpat]: Tooltip for abbreviation.
