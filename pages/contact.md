@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: "Contact victorkaillo@ufrn.edu.br"
+description: "Contact v.c.s.kaillo@gmail.com"
 comments: false
 mathjax: false
 noindex: false
@@ -20,11 +20,9 @@ tags:
 
 | <i class="fa fa-twitter"></i> | [@victorkaillo](https://twitter.com/victor_kaillo)  | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | Victor<br>Kaillo<br>1808<br>Natal, RN    | 
+| <i class="fa fa-instagram"></i>  | [INSTAGRAM @victorkaillo](https://www.instagram.com/victorkaillo) | 
 | - | :- |
-| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
-| - | :- |
-| <i class="fa fa-paper-plane">  | victorkaillo@ufrn.edu.br | 
+| <i class="fa fa-paper-plane">  | v.c.s.kaillo@gmail.com | 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
